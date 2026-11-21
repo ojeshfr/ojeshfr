@@ -1,6 +1,6 @@
 <p align="center"><img src="./header.svg" alt="Hey, I'm Ojesh — turning rabbit holes into repos. (holy bars)" width="820"></p>
 <p align="center"><a href="https://ovio.portways.app">ovio.portways.app ↗</a></p>
-<p align="center"><img src="./about.svg" alt="About Ojesh: setup, languages, focus and links" width="820"></p>
+<p align="center"><img src="./about.svg" alt="About Ojesh: stack, setup, focus and links" width="820"></p>
 <p align="center"><img src="https://profile-live.ojeshfr.workers.dev/now-playing.svg" alt="Now playing on Last.fm" width="820"></p>
 <p align="center"><img src="https://profile-live.ojeshfr.workers.dev/mascot.svg" alt="Popyyy, the profile cat" width="820"></p>
 <p align="center">
