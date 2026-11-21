@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="496" viewBox="0 0 820 496" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace">
+  <rect x="0.5" y="0.5" width="819" height="495" rx="14" fill="#0d1117" stroke="#30363d"/>
+  <path d="M1 34V15A14 14 0 0 1 15 1H805A14 14 0 0 1 819 15V34Z" fill="#010409"/>
+  <circle cx="22" cy="18" r="6" fill="#ff5f57"/><circle cx="42" cy="18" r="6" fill="#febc2e"/><circle cx="62" cy="18" r="6" fill="#28c840"/>
+  <text x="410.0" y="23" text-anchor="middle" font-size="13" fill="#6e7681">fastfetch.svg</text>
+  <g fill="none" stroke="#3fb950" stroke-width="2.4" stroke-linecap="round">
+    <circle cx="128" cy="262.0" r="70"/><circle cx="128" cy="262.0" r="38"/>
+    <path d="M36 262.0H78M178 262.0H220M128 170.0V212.0M128 312.0V354.0"/>
+  </g>
+  <circle cx="128" cy="262.0" r="7" fill="#3fb950"/>
+  <text x="245" y="78" font-size="15" font-weight="700"><tspan fill="#39d0d8">ojeshfr</tspan><tspan fill="#c9d1d9">@</tspan><tspan fill="#39d0d8">ovio</tspan></text>
+  <text x="245" y="94" font-size="15" fill="#6e7681">------------</text>
+  <text x="245" y="118" font-size="15" fill="#3fb950">OS:</text>
+  <line x1="280.0" y1="114" x2="680.0" y2="114" stroke="#6e7681" stroke-width="1.2" stroke-dasharray="0.1 4" stroke-linecap="round" opacity="0.7"/>
+  <text x="780" y="118" font-size="15" fill="#c9d1d9" text-anchor="end">Windows 11</text>
+  <text x="245" y="144" font-size="15" fill="#3fb950">Editor:</text>
+  <line x1="316.0" y1="140" x2="653.0" y2="140" stroke="#6e7681" stroke-width="1.2" stroke-dasharray="0.1 4" stroke-linecap="round" opacity="0.7"/>
+  <text x="780" y="144" font-size="15" fill="#c9d1d9" text-anchor="end">Visual Studio</text>
+  <text x="245" y="170" font-size="15" fill="#3fb950">Shell:</text>
+  <line x1="307.0" y1="166" x2="680.0" y2="166" stroke="#6e7681" stroke-width="1.2" stroke-dasharray="0.1 4" stroke-linecap="round" opacity="0.7"/>
+  <text x="780" y="170" font-size="15" fill="#c9d1d9" text-anchor="end">PowerShell</text>
+  <text x="245" y="196" font-size="15" fill="#3fb950">Location:</text>
+  <line x1="334.0" y1="192" x2="725.0" y2="192" stroke="#6e7681" stroke-width="1.2" stroke-dasharray="0.1 4" stroke-linecap="round" opacity="0.7"/>
+  <text x="780" y="196" font-size="15" fill="#c9d1d9" text-anchor="end">India</text>
+  <text x="245" y="222" font-size="15" fill="#3fb950">Local time:</text>
+  <line x1="352.0" y1="218" x2="698.0" y2="218" stroke="#6e7681" stroke-width="1.2" stroke-dasharray="0.1 4" stroke-linecap="round" opacity="0.7"/>
+  <text x="780" y="222" font-size="15" fill="#c9d1d9" text-anchor="end">UTC+5:30</text>
+  <text x="245" y="254" font-size="15" fill="#3fb950">— Languages</text>
+  <line x1="368.0" y1="249" x2="780" y2="249" stroke="#30363d"/>
+  <text x="245" y="280" font-size="15" fill="#3fb950">Programming:</text>
+  <line x1="361.0" y1="276" x2="392.0" y2="276" stroke="#6e7681" stroke-width="1.2" stroke-dasharray="0.1 4" stroke-linecap="round" opacity="0.7"/>
+  <text x="780" y="280" font-size="15" fill="#c9d1d9" text-anchor="end"><tspan fill="#178600">●</tspan> C#, <tspan fill="#3178c6">●</tspan> TypeScript, <tspan fill="#3572A5">●</tspan> Python, <tspan fill="#f1e05a">●</tspan> JavaScript</text>
+  <text x="245" y="306" font-size="15" fill="#3fb950">Languages.Other:</text>
+  <line x1="397.0" y1="302" x2="725.0" y2="302" stroke="#6e7681" stroke-width="1.2" stroke-dasharray="0.1 4" stroke-linecap="round" opacity="0.7"/>
+  <text x="780" y="306" font-size="15" fill="#c9d1d9" text-anchor="end"><tspan fill="#563d7c">●</tspan> CSS</text>
+  <text x="245" y="338" font-size="15" fill="#3fb950">— Hobbies</text>
+  <line x1="350.0" y1="333" x2="780" y2="333" stroke="#30363d"/>
+  <text x="245" y="364" font-size="15" fill="#3fb950">Hobbies.Software:</text>
+  <line x1="406.0" y1="360" x2="473.0" y2="360" stroke="#6e7681" stroke-width="1.2" stroke-dasharray="0.1 4" stroke-linecap="round" opacity="0.7"/>
+  <text x="780" y="364" font-size="15" fill="#c9d1d9" text-anchor="end">desktop tools, OCR, overlays, web</text>
+  <text x="245" y="396" font-size="15" fill="#3fb950">— Contact</text>
+  <line x1="350.0" y1="391" x2="780" y2="391" stroke="#30363d"/>
+  <text x="245" y="422" font-size="15" fill="#3fb950">Contact.GitHub:</text>
+  <line x1="388.0" y1="418" x2="707.0" y2="418" stroke="#6e7681" stroke-width="1.2" stroke-dasharray="0.1 4" stroke-linecap="round" opacity="0.7"/>
+  <text x="780" y="422" font-size="15" fill="#c9d1d9" text-anchor="end">ojeshfr</text>
+  <text x="245" y="448" font-size="15" fill="#3fb950">Contact.Portfolio:</text>
+  <line x1="415.0" y1="444" x2="617.0" y2="444" stroke="#6e7681" stroke-width="1.2" stroke-dasharray="0.1 4" stroke-linecap="round" opacity="0.7"/>
+  <text x="780" y="448" font-size="15" fill="#c9d1d9" text-anchor="end">ovio.portways.app</text>
+</svg>

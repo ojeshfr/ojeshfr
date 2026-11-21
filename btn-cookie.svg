@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="370" height="64" viewBox="0 0 370 64" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace">
+  <rect x="2" y="2" width="366" height="60" rx="30" fill="#161b22" stroke="#3fb950" stroke-width="2"/>
+  <circle cx="48" cy="32" r="16" fill="#c68a4a"/><g fill="#5b3a1a"><circle cx="42" cy="27" r="2.6"/><circle cx="53" cy="30" r="2.6"/><circle cx="46" cy="39" r="2.6"/><circle cx="55" cy="40" r="2"/></g>
+  <text x="86" y="39" font-size="18" font-weight="700" fill="#3fb950">give a cookie</text>
+</svg>
